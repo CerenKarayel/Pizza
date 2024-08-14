@@ -1,0 +1,13 @@
+.header{
+    background-color: #CE2829;
+    text-align: center;
+    color: #FAF7F2;
+    height: 30vh;
+}
+.anasayfa-link, .siparis-link{
+    color: #FAF7F2;
+    text-decoration: none;
+}
+.nav-link:(:last-child)::after {
+    content: "-";
+}

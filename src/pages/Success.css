@@ -1,0 +1,31 @@
+.onay-container h1{
+  color: #FAF7F2;
+  font-family: Barlow;
+  font-weight: 700;
+  font-size: 2.7rem;
+  margin-top: 5rem;
+  margin-bottom: 3rem;
+
+}
+.onay-container h2{
+font-family: Roboto Condensed;
+font-size: 80px;
+font-weight: 300;
+line-height: 92px;
+letter-spacing: 1.5px;
+color: #FAF7F2;
+width: 30vh;
+
+
+}
+.onay-container{
+    background-color: #CE2829;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    width: 100%;
+    margin: 0 auto; 
+    height: 100vh;
+    gap: 70px;
+    text-align: center;
+}

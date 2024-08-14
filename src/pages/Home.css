@@ -14,27 +14,34 @@
   
 }
 .home-yazilar h1{
-    font-family:"barlow";
+    font-family: Barlow;
     color: #FAF7F2;
-    margin-top: 10rem;
-    width: 361.93px;
+    margin-top: 5rem;
+    width: 350px;
     height: 45.79px;
+    text-align: center;
 }
 .home-yazilar h2{
     font-family:Roboto Condensed;
     color: #FAF7F2;
-    font-weight: 300;
+    font-weight: 250;
+    font-size: 3rem;
+    font-family: Roboto Condensed;
+    text-align: center;
+    width: 50vh;
     
 }
+
+
 .home-button{
     background-color: #FDC913;
     color:#292929;
-    border-radius: 50px;
-    border-color: #FDC913;
+    border-radius: 2rem;
+    border:none;
     font-family: Barlow;
-    
-    
-    
-
-    
+    font-size: 15px;
+    width: 129px;
+    height: 39px;
 }
+
+
