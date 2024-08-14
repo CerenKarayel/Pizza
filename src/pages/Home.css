@@ -1,0 +1,40 @@
+
+.home-container{
+  height: 100vh;
+  background-image: url("../Assets/Iteration-1-assets/home-banner.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+}
+.home-yazilar{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+.home-yazilar h1{
+    font-family:"barlow";
+    color: #FAF7F2;
+    margin-top: 10rem;
+    width: 361.93px;
+    height: 45.79px;
+}
+.home-yazilar h2{
+    font-family:Roboto Condensed;
+    color: #FAF7F2;
+    font-weight: 300;
+    
+}
+.home-button{
+    background-color: #FDC913;
+    color:#292929;
+    border-radius: 50px;
+    border-color: #FDC913;
+    font-family: Barlow;
+    
+    
+    
+
+    
+}

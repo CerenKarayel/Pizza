@@ -1,7 +1,10 @@
 import { Redirect, Route, Switch } from "react-router-dom/cjs/react-router-dom.min"
-import Order from "./pages/Order"
 import Success from "./pages/Success"
 import Home from "./pages/Home"
+import OrderPizza from "./pages/OrderPizza"
+
+
+
 
 function App() {
   
@@ -15,8 +18,8 @@ function App() {
         <Route path="/Home">
           <Home />
         </Route>
-        <Route path="/Order">
-          <Order />
+        <Route path="/OrderPizza">
+          <OrderPizza />
         </Route>
         <Route path="/Success">
           <Success />

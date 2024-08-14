@@ -2,8 +2,8 @@ import React from 'react'
 
 const Success = () => {
   return (
-    <div>
-      <p>ceren</p>
+    <div className=''>
+      <h1>Teknolojik Yemekler</h1>
     </div>
   )
 }
